@@ -5,8 +5,5 @@ Hanyuan Yuan, <a href='https://galina0217.github.io/'>Jiarong Xu*</a>, Renhong H
  <a href='https://neurips.cc/'><img src='https://img.shields.io/badge/Conference-NeurIPS-magenta'></a> 
  <a href='https://github.com/horrible-dong/DNRT/blob/main/LICENSE'><img src='https://img.shields.io/badge/License-Apache--2.0-blue'></a> 
 
-<div align='center'>
-<img src='pic/gps.png' style='width: 50%;' />
-</div>
 
 # Code coming soon
